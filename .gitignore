@@ -32,3 +32,4 @@ _ReSharper*/
 platforms/android/
 platforms/browser/
 platforms/ios/
+www/js/vendor/
