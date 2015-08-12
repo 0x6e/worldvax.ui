@@ -17,7 +17,6 @@
   "dependencies": {
     "angular": "~1.4.3",
     "underscore": "~1.8.3",
-    "angular-material": "~0.10.0",
     "json.date-extensions": "~1.2.2",
     "ngCordova": "~0.1.19-alpha",
     "angular-route": "~1.4.3"

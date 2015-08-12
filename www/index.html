@@ -18,8 +18,9 @@
     under the License.
 -->
 <html>
-    <head>
-        <!--
+
+<head>
+    <!--
         Customize this policy to fit your own app's needs. For more guidance, see:
             https://github.com/apache/cordova-plugin-whitelist/blob/master/README.md#content-security-policy
         Some notes:
@@ -28,59 +29,66 @@
             * Disables use of inline scripts in order to mitigate risk of XSS vulnerabilities. To change this:
                 * Enable inline JS: add 'unsafe-inline' to default-src
         -->
-        <meta http-equiv="Content-Security-Policy" content="default-src 'self' data: gap: https://ssl.gstatic.com 'unsafe-eval'; style-src 'self' 'unsafe-inline'; media-src *">
-        <meta name="format-detection" content="telephone=no">
-        <meta name="msapplication-tap-highlight" content="no">
-        <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width">
-        <link rel="stylesheet" type="text/css" href="css/style.css">
-        <link rel="stylesheet" type="text/css" href="js/vendor/angular-material/angular-material.css">
-        <title>MIR</title>
-    </head>
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self' data: gap: https://ssl.gstatic.com 'unsafe-eval'; style-src 'self' 'unsafe-inline'; media-src *">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="msapplication-tap-highlight" content="no">
+    <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="stylesheet" type="text/css" href="css/material.min.css">
+    <title>MIR</title>
+</head>
+
 <body class="md-default-theme">
 
-
-<div layout="column" layout-fill>
-
-    <div ng-controller="NavbarCtrl">
-        <md-toolbar>
-            <div class="md-toolbar-tools">
-                <md-button hide show-sm ng-click="onDrawer()">
-                    <md-icon>menu</md-icon>
-                </md-button>
-                <span hide show-md>Worldvax.org</span>
-                <span hide show-gt-md>Mobile Immunization Registry</span>
-                <span flex></span>
-                <div hide-sm>
-                    <md-button ng-repeat="route in routes" ng-click="navigate(route.route)">{{route.text}}</md-button>
-                </div>
+    <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
+        <header class="mdl-layout__header" ng-controller="ToolbarController">
+            <div class="mdl-layout__header-row">
+                <!-- Title -->
+                <span><img ng-src="img/android-icon-36x36.png"></span>
+                <span>Worldvax.org</span>
+                <span>Mobile Immunization Registry</span>
+                <!-- Add spacer, to align navigation to the right -->
+                <div class="mdl-layout-spacer"></div>
+                <!-- Navigation. We hide it in small screens. -->
+                <nav class="mdl-navigation">
+                    <div class="mdl-textfield mdl-js-textfield mdl-textfield--expandable">
+                        <label class="mdl-button mdl-js-button mdl-button--icon" for="sample6">
+                            <i class="material-icons">search</i>
+                        </label>
+                        <div class="mdl-textfield__expandable-holder">
+                            <input class="mdl-textfield__input" type="text" id="sample6" />
+                        </div>
+                    </div>
+                    <button ng-click="onNavigate('patient')" class="mdl-button mdl-js-button mdl-button--icon mdl-button--colored">
+                        <i class="material-icons">local_hospital</i>
+                    </button>
+                </nav>
             </div>
-        </md-toolbar>
-        <md-sidenav md-component-id="drawer" class="md-sidenav-left" layout="column">
-            <img ng-src="img/banner-sm.png">
-            <md-list>
-                <md-list-item class="hand" ng-repeat="route in routes" ng-click="navigate(route.route)"">{{route.text | uppercase}}</md-list-item>
-            </md-list>
-        </md-sidenav>
+        </header>
     </div>
-    <md-content>
+    <main class="mdl-layout__content">
         <div ng-view></div>
-    </md-content>
-</div>
-        <!-- cordova -->
-        <script type="text/javascript" src="cordova.js"></script>
+    </main>
 
-        <!-- angular -->
-        <script type="text/javascript" src="js/vendor/angular/angular.min.js"></script>
-        <script type="text/javascript" src="js/vendor/angular-aria/angular-aria.min.js"></script>
-        <script type="text/javascript" src="js/vendor/angular-animate/angular-animate.min.js"></script>
-        <script type="text/javascript" src="js/vendor/angular-material/angular-material.min.js"></script>
-        <script type="text/javascript" src="js/vendor/angular-route/angular-route.min.js"></script>
+    <!-- cordova -->
+    <script type="text/javascript" src="cordova.js"></script>
 
-        <!-- other -->
-        <script type="text/javascript" src="js/vendor/json.date-extensions/json.date-extensions.min.js"></script>
+    <!-- angular -->
+    <script type="text/javascript" src="js/vendor/angular/angular.min.js"></script>
+    <script type="text/javascript" src="js/vendor/angular-route/angular-route.min.js"></script>
 
-        <!-- mir -->
-        <script type="text/javascript" src="js/navbar.js"></script>
-        <script type="text/javascript" src="js/app.js"></script>
-    </body>
+    <!-- material design lite -->
+    <script type="text/javascript" src="js/material.min.js"></script>
+
+    <!-- other -->
+    <script type="text/javascript" src="js/vendor/json.date-extensions/json.date-extensions.min.js"></script>
+
+    <!-- mir -->
+    <script type="text/javascript" src="js/configModule.js"></script>
+    <script type="text/javascript" src="js/navModule.js"></script>
+    <script type="text/javascript" src="js/searchModule.js"></script>
+    <script type="text/javascript" src="js/toolbarModule.js"></script>
+    <script type="text/javascript" src="js/app.js"></script>
+</body>
+
 </html>

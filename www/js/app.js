@@ -2,14 +2,11 @@
 
     angular.module("mir", [
         "ngRoute",
-        //"mirSearch",
-        //"mirPatient",
-        //"mirData",
-        //"mirEventAggregator",
-        "mirNav",
-        //"mirLookups",
-        //"mirAlerts",
-        "ngMaterial"
+        "ngMaterial",
+        "mirSearch",
+        "mirToolbar",
+        "mirNavigation",
+        "mirConfiguration"
     ]).config(function($mdThemingProvider) {
         $mdThemingProvider.theme('default')
         .primaryPalette('green')
