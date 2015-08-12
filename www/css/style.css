@@ -36,6 +36,49 @@
   font-feature-settings: 'liga';
 }
 
+/** Mobile **/
+@media only screen and (max-width: 767px), only screen and (max-device-width: 767px) {
+
+.sm {
+}
+.md {
+    display:none;
+}
+.lg {
+    display:none;
+}
+
+}
+
+/** Tablet **/
+@media only screen and (min-width : 768px) and (max-width : 1024px) {
+
+
+.sm {
+    display:none;
+}
+.md {
+}
+.lg {
+    display:none;
+}
+
+}
+
+/** Tablet (landscape) **/
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) {
+
+
+.sm {
+    display:none;
+}
+.md {
+    display:none;
+}
+.lg {
+}
+
+}
 
 body {
 }
@@ -50,7 +93,7 @@ body {
 }
 
 ul.flow-layout {
-    list-style:none;    
+    list-style:none;
 }
 
 ul.flow-layout li {
