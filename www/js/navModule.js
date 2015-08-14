@@ -1,8 +1,8 @@
 (function(){
 
-    var app = angular.module("mirNavigation", []);
+    var app = angular.module('mirNavigation', []);
 
-    app.factory("$navigation", function($location) {
+    app.factory('$navigation', function($location) {
 
         var service = {
             goTo: function(path){

@@ -1,16 +1,16 @@
 (function(){
 
-    var app = angular.module("mirToolbar", ["mirNavigation"]);
+    var app = angular.module('mirToolbar', ['mirNavigation']);
 
-    app.controller("ToolbarController",["$scope", "$navigation", function($scope, $nav) {
-        $scope.query = "";
+    app.controller('ToolbarController',['$scope', '$navigation', function($scope, $navigation) {
+        $scope.query = '';
 
-        $scope.onNavigate = function(route) {
-            $nav.goTo(route);
+        this.onNavigate = function(route) {
+            $navigation.goTo(route);
         };
 
-        $scope.onSearch = function(route) {
-            $nav.goTo('search?q=' + $scope.query);
+        this.onSearch = function() {
+            $navigation.goTo('search?q=' + $scope.query);
         };
     }]);
 

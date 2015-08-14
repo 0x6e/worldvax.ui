@@ -3,12 +3,12 @@
   font-family: 'Material Icons';
   font-style: normal;
   font-weight: 400;
-  src: url(/stylesheets/iconfont/MaterialIcons-Regular.eot); /* For IE6-8 */
+  src: url(components/iconfont/MaterialIcons-Regular.eot); /* For IE6-8 */
   src: local('Material Icons'),
        local('MaterialIcons-Regular'),
-       url(/stylesheets/iconfont/MaterialIcons-Regular.woff2) format('woff2'),
-       url(/stylesheets/iconfont/MaterialIcons-Regular.woff) format('woff'),
-       url(/stylesheets/iconfont/MaterialIcons-Regular.ttf) format('truetype');
+       url(components/iconfont/MaterialIcons-Regular.woff2) format('woff2'),
+       url(components/iconfont/MaterialIcons-Regular.woff) format('woff'),
+       url(components/iconfont/MaterialIcons-Regular.ttf) format('truetype');
 }
 
 .material-icons {
@@ -38,46 +38,32 @@
 
 /** Mobile **/
 @media only screen and (max-width: 767px), only screen and (max-device-width: 767px) {
-
-.sm {
-}
-.md {
-    display:none;
-}
-.lg {
-    display:none;
-}
-
+    .md {
+        display:none;
+    }
+    .lg {
+        display:none;
+    }
 }
 
 /** Tablet **/
 @media only screen and (min-width : 768px) and (max-width : 1023px) {
-
-
-.sm {
-    display:none;
-}
-.md {
-}
-.lg {
-    display:none;
-}
-
+    .sm {
+        display:none;
+    }
+    .lg {
+        display:none;
+    }
 }
 
 /** Tablet (landscape) **/
 @media only screen and (min-width : 1024px) {
-
-
-.sm {
-    display:none;
-}
-.md {
-    display:none;
-}
-.lg {
-}
-
+    .sm {
+        display:none;
+    }
+    .md {
+        display:none;
+    }
 }
 
 body {

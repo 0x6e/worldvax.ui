@@ -1,69 +1,82 @@
 <!DOCTYPE html>
 <html>
+
 <head>
-    <meta http-equiv="Content-Security-Policy" content="default-src 'self' data: gap: https://ssl.gstatic.com 'unsafe-eval'; style-src 'self' 'unsafe-inline'; media-src *">
-    <meta name="format-detection" content="telephone=no">
-    <meta name="msapplication-tap-highlight" content="no">
-    <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width">
-    <link rel="stylesheet" type="text/css" href="css/material.min.css">
-    <link rel="stylesheet" type="text/css" href="css/style.css">
-    <title>MIR</title>
+      <meta http-equiv="Content-Security-Policy" content="default-src 'self' data: gap: https://ssl.gstatic.com 'unsafe-eval'; style-src 'self' 'unsafe-inline'; media-src *">
+      <meta name="format-detection" content="telephone=no">
+      <meta name="msapplication-tap-highlight" content="no">
+      <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width">
+      <link rel="stylesheet" type="text/css" href="css/style.css">
+      <link rel="stylesheet" type="text/css" href="components/angular-material/angular-material.min.css">
+      <title>MIR</title>
 </head>
-<body class="md-default-theme">
 
-    <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
-        <header class="mdl-layout__header" ng-controller="ToolbarController">
-            <div class="mdl-layout__header-row">
-                <span class="mdl-layout-title sm"><img src="img/android-icon-36x36.png"></span>
-                <span class="mdl-layout-title md">Worldvax.org</span>
-                <span class="mdl-layout-title lg">Mobile Immunization Registry</span>
-                <div class="mdl-layout-spacer"></div>
-                <nav class="mdl-navigation">
-                    <div class="mdl-textfield mdl-js-textfield mdl-textfield--expandable">
-                        <label class="mdl-button mdl-js-button mdl-button--icon" for="sample6">
-                            <i class="material-icons">search</i>
-                        </label>
-                        <div class="mdl-textfield__expandable-holder">
-                            <input class="mdl-textfield__input" type="text" id="sample6" />
-                        </div>
-                    </div>
-                    <button ng-click="onNavigate('patient')" class="mdl-button mdl-js-button mdl-button--icon">
-                        <i class="material-icons">local_hospital</i>
-                    </button>
-                    <button id="demo-menu-lower-right" class="mdl-button mdl-js-button mdl-button--icon">
-                        <i class="material-icons">more_vert</i>
-                    </button>
-                    <ul class="mdl-menu mdl-menu--bottom-right mdl-js-menu mdl-js-ripple-effect" for="demo-menu-lower-right">
-                        <li class="mdl-menu__item" ng-click="onNavigate('about')">About</li>
-                        <li class="mdl-menu__item" ng-click="onNavigate('settings')">Settings</li>
-                    </ul>
-                </nav>
-            </div>
-        </header>
-    </div>
-    <main class="mdl-layout__content">
-        <div ng-view></div>
-    </main>
-
-    <!-- cordova -->
-    <script type="text/javascript" src="cordova.js"></script>
-
-    <!-- angular -->
-    <script type="text/javascript" src="js/vendor/angular/angular.min.js"></script>
-    <script type="text/javascript" src="js/vendor/angular-route/angular-route.min.js"></script>
-
-    <!-- material design lite -->
-    <script type="text/javascript" src="js/material.min.js"></script>
-
-    <!-- other -->
-    <script type="text/javascript" src="js/vendor/json.date-extensions/json.date-extensions.min.js"></script>
-
-    <!-- mir -->
-    <script type="text/javascript" src="js/configModule.js"></script>
-    <script type="text/javascript" src="js/navModule.js"></script>
-    <script type="text/javascript" src="js/searchModule.js"></script>
-    <script type="text/javascript" src="js/toolbarModule.js"></script>
-    <script type="text/javascript" src="js/app.js"></script>
+<body>
+      <header ng-controller="ToolbarController as nav" class="md-primary">
+            <md-content>
+                  <md-toolbar>
+                        <nav layout="row" layout-align="center center">
+                              <md-button class="md-icon-button" aria-label="Options">
+                                    <md-icon>menu</md-icon>
+                              </md-button>
+                              <h2 class="md-title">
+                              <span hide show-sm><img src="img/android-icon-36x36.png"></span>
+                              <span hide show-md>Worldvax.org</span>
+                              <span hide show-gt-md>Mobile Immunization Registry</span>
+                              </h2>
+                              <span flex></span>
+                              <md-button ng-click="nav.onSearch()">
+                                    <md-icon>search</md-icon>
+                              </md-button>
+                              <md-input-container><span  class="md-primary md-hue-1">
+                                    <input type="text" ng-model="query" aria-label="Enter search term">
+                                    </span>
+                              </md-input-container>
+                              <md-button hide show-sm ng-click="nav.onNavigate('patient')" class="md-icon-button">
+                                    <md-icon>local_hospital</md-icon>
+                              </md-button>
+                              <md-button hide show-gt-sm ng-click="nav.onNavigate('patient')">
+                                    Medical
+                              </md-button>
+                              <md-menu>
+                                    <md-button ng-click="$mdOpenMenu($event)" class="md-icon-button" aria-label="Settings menu">
+                                          <md-icon>more_vert</md-icon>
+                                    </md-button>
+                                    <md-menu-content>
+                                          <md-menu-item>
+                                                <md-button ng-click="nav.onNavigate('settings')">Settings</md-button>
+                                          </md-menu-item>
+                                          <md-menu-item>
+                                                <md-button ng-click="nav.onNavigate('about')">About</md-button>
+                                          </md-menu-item>
+                                    </md-menu-content>
+                              </md-menu>
+                        </nav>
+                  </md-toolbar>
+            </md-content>
+      </header>
+      <md-content>
+            <div ng-view></div>
+      </md-content>
+      <!-- cordova -->
+      <script type="text/javascript" src="cordova.js"></script>
+      <!-- angular -->
+      <script type="text/javascript" src="components/angular/angular.min.js"></script>
+      <script type="text/javascript" src="components/angular-route/angular-route.min.js"></script>
+      <script type="text/javascript" src="components/angular-animate/angular-animate.min.js"></script>
+      <script type="text/javascript" src="components/angular-aria/angular-aria.min.js"></script>
+      <script type="text/javascript" src="components/angular-material/angular-material.min.js"></script>
+      <script type="text/javascript" src="components/angular-animate/angular-animate.min.js"></script>
+      <script type="text/javascript" src="components/ngCordova/dist/ng-cordova.min.js"></script>
+      <!-- other -->
+      <script type="text/javascript" src="components/json.date-extensions/json.date-extensions.min.js"></script>
+      <script type="text/javascript" src="components/underscore/underscore-min.js"></script>
+      <!-- mir -->
+      <script type="text/javascript" src="js/configModule.js"></script>
+      <script type="text/javascript" src="js/navModule.js"></script>
+      <script type="text/javascript" src="js/searchModule.js"></script>
+      <script type="text/javascript" src="js/toolbarModule.js"></script>
+      <script type="text/javascript" src="js/app.js"></script>
 </body>
 
 </html>
