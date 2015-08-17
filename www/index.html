@@ -12,7 +12,7 @@
 </head>
 
 <body>
-      <header ng-controller="ToolbarController as nav" class="md-primary">
+      <header ng-controller="NavigationController as nav" class="md-primary">
             <md-content>
                   <md-toolbar>
                         <nav layout="row" layout-align="center center">
@@ -28,7 +28,7 @@
                               <md-button ng-click="nav.onSearch()">
                                     <md-icon>search</md-icon>
                               </md-button>
-                              <md-input-container><span  class="md-primary md-hue-1">
+                              <md-input-container><span class="md-primary md-hue-1">
                                     <input type="text" ng-model="query" aria-label="Enter search term">
                                     </span>
                               </md-input-container>
@@ -59,6 +59,7 @@
             <div ng-view></div>
       </md-content>
       <!-- cordova -->
+      <script type="text/javascript" src="cordova_plugins.js"></script>
       <script type="text/javascript" src="cordova.js"></script>
       <!-- angular -->
       <script type="text/javascript" src="components/angular/angular.min.js"></script>
@@ -71,11 +72,11 @@
       <!-- other -->
       <script type="text/javascript" src="components/json.date-extensions/json.date-extensions.min.js"></script>
       <script type="text/javascript" src="components/underscore/underscore-min.js"></script>
+      <script type="text/javascript" src="components/pouchdb/dist/pouchdb.min.js"></script>
       <!-- mir -->
-      <script type="text/javascript" src="js/configModule.js"></script>
-      <script type="text/javascript" src="js/navModule.js"></script>
+      <script type="text/javascript" src="js/navigationModule.js"></script>
       <script type="text/javascript" src="js/searchModule.js"></script>
-      <script type="text/javascript" src="js/toolbarModule.js"></script>
+      <script type="text/javascript" src="js/dataModule.js"></script>
       <script type="text/javascript" src="js/app.js"></script>
 </body>
 

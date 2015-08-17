@@ -21,6 +21,7 @@
     "json.date-extensions": "~1.2.2",
     "ngCordova": "~0.1.19-alpha",
     "angular-route": "~1.4.3",
-    "angular-material": "~0.10.1"
+    "angular-material": "~0.10.1",
+    "pouchdb": "~4.0.0"
   }
 }
