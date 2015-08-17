@@ -28,6 +28,7 @@ obj/
 _ReSharper*/
 [Tt]est[Rr]esult*
 ~*
+*~
 # Cordova
 platforms/android/
 platforms/browser/
