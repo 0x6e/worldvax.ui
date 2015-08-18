@@ -27,7 +27,7 @@
             var db = new PouchDB('worldvax.db');
             db.destroy().then(function () {
                 var db = new PouchDB('worldvax.db');
-                loadJSON('./patient.json', function (data) {
+                loadJSON('./preload/patient.json', function (data) {
                     db.bulkDocs(data).then(function (result) {
                         console.log('pre-load complete');
                     });
