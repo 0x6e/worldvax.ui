@@ -23,7 +23,6 @@
         };
 
         this.onSearch = function () {
-            console.log('clicked search btn');
             searchSvc.search($scope.query);
             navSvc.goTo('search');
         };

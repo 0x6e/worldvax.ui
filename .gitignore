@@ -34,3 +34,4 @@ platforms/browser/
 platforms/ios/
 www/components/
 plugins/
+node_modules/

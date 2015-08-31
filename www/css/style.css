@@ -66,56 +66,19 @@
     }
 }
 
-body {
-}
-
-.md-whiteframe-z1 {
-    margin:20px;
-    padding:20px;
-}
-
 .hand {
     cursor:pointer;
 }
 
-ul.flow-layout {
-    list-style:none;
+.result-card {
+    height:120px;
+    width:300px;
 }
 
-ul.flow-layout li {
-    display:inline-block;
-}
-
-ul.flow-layout md-card {
-    width:250px;
-}
-
-ul.flow-layout img {
+.result-card img {
     height:100px;
-    width:auto;
-}
-
-span.md-title {
-    margin-left: 15px;
-}
-
-.card-button {
-    margin:0px;
+    width:90px;
+    margin-right:0px;
+    margin-right:20px;
     padding:0px;
 }
-
-.card-button span {
-    margin-left:10px;
-}
-
-.about p {
-    text-align: justify;
-    text-justify: auto;
-}
-
-.about h1 {
-    display:inline-block;
-    padding-left:20px;
-}
-
-

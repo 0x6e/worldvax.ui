@@ -1,8 +1,8 @@
 <div ng-controller="SearchController">
 	<md-content>
-		<div layout="row">
-			<md-card class="hand" ng-repeat="result in results">
-				<md-button ng-click="onSelect({{result._id}})" class="card-button md-title">
+		<div layout="row" layout-wrap>
+			<md-card class="hand result-card" ng-repeat="result in results">
+				<md-button ng-click="onSelect(result._id)" class="card-button md-title">
 					<div layout="row" layout-align="start center">
 						<img ng-src="photos/{{result.doc.identity.photo}}" onerror="this.src='img/unknown-90x100.jpg';'" />
 						<span>{{result.doc.identity.lastName}},&nbsp;{{result.doc.identity.firstName}}</span>
