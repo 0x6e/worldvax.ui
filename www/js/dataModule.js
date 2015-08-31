@@ -13,8 +13,7 @@
                 });
             },
             'all': function () {
-                var db = new PouchDB('worldvax.db');
-                return db.allDocs({include_docs:true}).then(function (result) {
+                return _db.allDocs({include_docs:true}).then(function (result) {
                     return result;
                 });
             },

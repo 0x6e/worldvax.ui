@@ -3,6 +3,7 @@
     var app = angular.module('mir', [
         'ngRoute',
         'ngMaterial',
+        'ngMdIcons',
         'mirData',
         'mirSearch',
         'mirNavigation'

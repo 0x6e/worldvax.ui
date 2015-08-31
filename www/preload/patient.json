@@ -30,6 +30,7 @@
             "latitude": "42.3648",
             "longitude": "-71.8969"
         },
+        "docType": "patient",
         "patientId": "9eef93cb5e26bc52518c6058bf9b3e48"
     },
     {
@@ -63,6 +64,7 @@
             "latitude": "33.0279",
             "longitude": "-117.0856"
         },
+        "docType": "patient",
         "patientId": "c7fb493e551b1c286cad9ce200f2809d"
     },
     {
@@ -94,6 +96,7 @@
             "latitude": "41.6727",
             "longitude": "-93.5722"
         },
+        "docType": "patient",
         "patientId": "0859ddd24b7b699d2abb87571e223742"
     },
     {
@@ -125,6 +128,7 @@
             "latitude": "31.4647",
             "longitude": "-100.39"
         },
+        "docType": "patient",
         "patientId": "c2856c8de7b28f36c1b04bc84ac57940"
     },
     {
@@ -158,6 +162,7 @@
             "latitude": "38.9327",
             "longitude": "-77.0322"
         },
+        "docType": "patient",
         "patientId": "74ce36f4ed3fcb0098c2719212309593"
     },
     {
@@ -191,6 +196,7 @@
             "latitude": "35.26",
             "longitude": "-80.8042"
         },
+        "docType": "patient",
         "patientId": "af435e9155b98faa8e14dc4cfc5d9d02"
     },
     {
@@ -222,6 +228,7 @@
             "latitude": "40.6934",
             "longitude": "-75.4712"
         },
+        "docType": "patient",
         "patientId": "414b2d11899b8e4e814ea8a728d515eb"
     },
     {
@@ -255,6 +262,7 @@
             "latitude": "41.0938",
             "longitude": "-85.0707"
         },
+        "docType": "patient",
         "patientId": "dfcf66e723c679d40821602ae5f0b4c3"
     },
     {
@@ -288,6 +296,7 @@
             "latitude": "36.1398",
             "longitude": "-96.0297"
         },
+        "docType": "patient",
         "patientId": "a4bec4c86459b456fbd72a165de65300"
     },
     {
@@ -321,6 +330,7 @@
             "latitude": "30.6568",
             "longitude": "-97.6026"
         },
+        "docType": "patient",
         "patientId": "2ca7f96d8a20bc1ab88f9cac024ae6a6"
     },
     {
@@ -354,6 +364,7 @@
             "latitude": "38.1321",
             "longitude": "-82.4183"
         },
+        "docType": "patient",
         "patientId": "38a1a7fcc4ab8d4b167924407aee3997"
     },
     {
@@ -387,6 +398,7 @@
             "latitude": "27.8918",
             "longitude": "-82.7248"
         },
+        "docType": "patient",
         "patientId": "10422e68ac9c1065aebaff0445fafb4d"
     },
     {
@@ -420,6 +432,7 @@
             "latitude": "42.4098",
             "longitude": "-82.9441"
         },
+        "docType": "patient",
         "patientId": "ab611be355b7f658c610714006b17166"
     },
     {
@@ -451,6 +464,7 @@
             "latitude": "38.8932",
             "longitude": "-77.049"
         },
+        "docType": "patient",
         "patientId": "dce86939d1f6bfa6b5e0cabc19d554ca"
     },
     {
@@ -484,6 +498,7 @@
             "latitude": "40.6914",
             "longitude": "-73.8061"
         },
+        "docType": "patient",
         "patientId": "999f5424ed1806060be7b7d4726c8be1"
     },
     {
@@ -517,6 +532,7 @@
             "latitude": "39.0853",
             "longitude": "-77.6452"
         },
+        "docType": "patient",
         "patientId": "1e93f24da6fcc32f3e0794b5b0127561"
     },
     {
@@ -548,6 +564,7 @@
             "latitude": "36.0275",
             "longitude": "-80.2073"
         },
+        "docType": "patient",
         "patientId": "9e42cbae9eceb681d6813be1696319e9"
     },
     {
@@ -581,6 +598,7 @@
             "latitude": "40.6869",
             "longitude": "-73.8501"
         },
+        "docType": "patient",
         "patientId": "02f266ff555d9b0c178f1bc7bbfae6f8"
     },
     {
@@ -614,6 +632,7 @@
             "latitude": "44.9034",
             "longitude": "-93.374"
         },
+        "docType": "patient",
         "patientId": "3b86dd34933b47098c6af4107d9fcd7a"
     },
     {
@@ -647,6 +666,7 @@
             "latitude": "33.7217",
             "longitude": "-84.3339"
         },
+        "docType": "patient",
         "patientId": "3ec8cd59f404ed2cf17e05a6ddf75bce"
     },
     {
@@ -680,6 +700,7 @@
             "latitude": "38.7192",
             "longitude": "-77.1073"
         },
+        "docType": "patient",
         "patientId": "0208bf374b8048138a351fe63182cc57"
     },
     {
@@ -713,6 +734,7 @@
             "latitude": "40.7808",
             "longitude": "-73.9772"
         },
+        "docType": "patient",
         "patientId": "405c33a10e2a587ac55970e1c5341bc9"
     },
     {
@@ -746,6 +768,7 @@
             "latitude": "41.613",
             "longitude": "-90.6063"
         },
+        "docType": "patient",
         "patientId": "41d2b922def233c13abf8cd751843d4a"
     },
     {
@@ -779,6 +802,7 @@
             "latitude": "25.7274",
             "longitude": "-80.4497"
         },
+        "docType": "patient",
         "patientId": "6a3701d45fe39ea14509cd3923c7875b"
     },
     {
@@ -812,6 +836,7 @@
             "latitude": "32.4112",
             "longitude": "-95.2899"
         },
+        "docType": "patient",
         "patientId": "71e848a638ede8da2417c619b2eb820c"
     },
     {
@@ -845,6 +870,7 @@
             "latitude": "38.8933",
             "longitude": "-77.0146"
         },
+        "docType": "patient",
         "patientId": "347bec0a732c94cd7785b7d3b1feaaa1"
     },
     {
@@ -878,6 +904,7 @@
             "latitude": "43.286",
             "longitude": "-77.6843"
         },
+        "docType": "patient",
         "patientId": "f8dd9988ebebc9de456e8efc059aec50"
     },
     {
@@ -911,6 +938,7 @@
             "latitude": "38.8836",
             "longitude": "-77.1395"
         },
+        "docType": "patient",
         "patientId": "61c384c811d03adc4f7d7afc0c24e291"
     },
     {
@@ -944,6 +972,7 @@
             "latitude": "40.8111",
             "longitude": "-73.9642"
         },
+        "docType": "patient",
         "patientId": "77f5f03f11351c81dc460bdb465168f1"
     },
     {
@@ -977,6 +1006,7 @@
             "latitude": "43.6375",
             "longitude": "-84.2568"
         },
+        "docType": "patient",
         "patientId": "f779f2cd2040ce210bae8fef0607afd5"
     },
     {
@@ -1010,6 +1040,7 @@
             "latitude": "37.2581",
             "longitude": "-93.3437"
         },
+        "docType": "patient",
         "patientId": "3fbeae1c7ca2c3f553a90139f1814265"
     },
     {
@@ -1043,6 +1074,7 @@
             "latitude": "36.7978",
             "longitude": "-76.1759"
         },
+        "docType": "patient",
         "patientId": "5c570fe66fe6959ba25cd394fafb7efa"
     },
     {
@@ -1076,6 +1108,7 @@
             "latitude": "26.1457",
             "longitude": "-80.4483"
         },
+        "docType": "patient",
         "patientId": "8f87cba6c6a3925049f2462b246b8c26"
     },
     {
@@ -1107,6 +1140,7 @@
             "latitude": "38.9033",
             "longitude": "-92.1022"
         },
+        "docType": "patient",
         "patientId": "58caa908c90dd68b34eb3a0e07d00859"
     },
     {
@@ -1140,6 +1174,7 @@
             "latitude": "33.0277",
             "longitude": "-96.6777"
         },
+        "docType": "patient",
         "patientId": "dfdcc78753f7855a349c2a2a5cb07618"
     },
     {
@@ -1173,6 +1208,7 @@
             "latitude": "40.7808",
             "longitude": "-73.9772"
         },
+        "docType": "patient",
         "patientId": "60907aeaf983fa670b0ce705b51fec59"
     },
     {
@@ -1206,6 +1242,7 @@
             "latitude": "33.5082",
             "longitude": "-112.1011"
         },
+        "docType": "patient",
         "patientId": "769c33988b65a8a85e5cadbbfe3b2451"
     },
     {
@@ -1239,6 +1276,7 @@
             "latitude": "35.0583",
             "longitude": "-79.008"
         },
+        "docType": "patient",
         "patientId": "b613779756c9055887712c392861f595"
     },
     {
@@ -1272,6 +1310,7 @@
             "latitude": "33.9937",
             "longitude": "-81.0199"
         },
+        "docType": "patient",
         "patientId": "b872b9497bb1661a22dd482ea7b14184"
     },
     {
@@ -1305,6 +1344,7 @@
             "latitude": "41.8119",
             "longitude": "-87.6873"
         },
+        "docType": "patient",
         "patientId": "602a0c3d16d2178b94af81e642c22b1b"
     },
     {
@@ -1338,6 +1378,7 @@
             "latitude": "35.6004",
             "longitude": "-82.4918"
         },
+        "docType": "patient",
         "patientId": "ee846130d14f42b12efc255f0fa9056a"
     },
     {
@@ -1371,6 +1412,7 @@
             "latitude": "33.8359",
             "longitude": "-117.9086"
         },
+        "docType": "patient",
         "patientId": "7559d8cd0fe661f99f41c880672a3f0a"
     },
     {
@@ -1404,6 +1446,7 @@
             "latitude": "40.6628",
             "longitude": "-73.9546"
         },
+        "docType": "patient",
         "patientId": "da409d9866aebac3cc7561dcac467b77"
     },
     {
@@ -1437,6 +1480,7 @@
             "latitude": "47.3081",
             "longitude": "-122.4185"
         },
+        "docType": "patient",
         "patientId": "97628bef75be8664d03a8369cfa15016"
     },
     {
@@ -1470,6 +1514,7 @@
             "latitude": "29.4375",
             "longitude": "-98.4616"
         },
+        "docType": "patient",
         "patientId": "2719104ff04f7e5589303df62bd177df"
     },
     {
@@ -1503,6 +1548,7 @@
             "latitude": "37.2742",
             "longitude": "-79.9579"
         },
+        "docType": "patient",
         "patientId": "51273de2950087a0e76260612fbdfb43"
     },
     {
@@ -1536,6 +1582,7 @@
             "latitude": "33.5452",
             "longitude": "-86.6655"
         },
+        "docType": "patient",
         "patientId": "851008a54fc0ee4eecd19841015f5000"
     },
     {
@@ -1569,6 +1616,7 @@
             "latitude": "30.5422",
             "longitude": "-84.1413"
         },
+        "docType": "patient",
         "patientId": "db1130dcc96f3a7acc5f03f02251a424"
     },
     {
@@ -1600,6 +1648,7 @@
             "latitude": "33.3813",
             "longitude": "-86.7046"
         },
+        "docType": "patient",
         "patientId": "ed88ef6efe1c93de72f923ac37128d8f"
     },
     {
@@ -1633,6 +1682,7 @@
             "latitude": "38.8932",
             "longitude": "-77.049"
         },
+        "docType": "patient",
         "patientId": "cf03f6e9e522309b0f11b76d743c359f"
     },
     {
@@ -1666,6 +1716,7 @@
             "latitude": "28.06",
             "longitude": "-82.4079"
         },
+        "docType": "patient",
         "patientId": "16c386305eee0128b5ccf74e54c4452e"
     },
     {
@@ -1699,6 +1750,7 @@
             "latitude": "43.5345",
             "longitude": "-115.9711"
         },
+        "docType": "patient",
         "patientId": "b9e4ee5da5ceceb21d5f8fc5f52a676c"
     },
     {
@@ -1732,6 +1784,7 @@
             "latitude": "39.0142",
             "longitude": "-95.6982"
         },
+        "docType": "patient",
         "patientId": "d967b78eb2ed9c1adbb7fe7e14c3693c"
     },
     {
@@ -1765,6 +1818,7 @@
             "latitude": "33.4226",
             "longitude": "-111.7236"
         },
+        "docType": "patient",
         "patientId": "3dce60ba197aa4e011fd70595a26f33e"
     },
     {
@@ -1798,6 +1852,7 @@
             "latitude": "39.361",
             "longitude": "-76.5891"
         },
+        "docType": "patient",
         "patientId": "17d68c3015f30481d26a665c32911efc"
     },
     {
@@ -1831,6 +1886,7 @@
             "latitude": "39.7982",
             "longitude": "-84.3211"
         },
+        "docType": "patient",
         "patientId": "e8c17061d1869aa4cc41cec04a3f34d5"
     },
     {
@@ -1864,6 +1920,7 @@
             "latitude": "47.4323",
             "longitude": "-121.8034"
         },
+        "docType": "patient",
         "patientId": "baf6965b4fd2fb4c39b3d625b6968561"
     },
     {
@@ -1897,6 +1954,7 @@
             "latitude": "36.1866",
             "longitude": "-86.7852"
         },
+        "docType": "patient",
         "patientId": "b87e0194ee3f40ac7f6134de09a425d4"
     },
     {
@@ -1930,6 +1988,7 @@
             "latitude": "33.1903",
             "longitude": "-97.1282"
         },
+        "docType": "patient",
         "patientId": "34033513e205b65dde356c049de51972"
     },
     {
@@ -1963,6 +2022,7 @@
             "latitude": "36.0914",
             "longitude": "-115.0885"
         },
+        "docType": "patient",
         "patientId": "d48886a780fbe3f14a5135a13af34547"
     },
     {
@@ -1996,6 +2056,7 @@
             "latitude": "37.7194",
             "longitude": "-97.2936"
         },
+        "docType": "patient",
         "patientId": "153a0959e992ecaba23e10dd68abb61e"
     },
     {
@@ -2029,6 +2090,7 @@
             "latitude": "34.1069",
             "longitude": "-117.2975"
         },
+        "docType": "patient",
         "patientId": "a47be84770b367341bee3513ec8170a6"
     },
     {
@@ -2062,6 +2124,7 @@
             "latitude": "32.7714",
             "longitude": "-97.2915"
         },
+        "docType": "patient",
         "patientId": "84437b775c7321b4b499a1ba203e8b3f"
     },
     {
@@ -2095,6 +2158,7 @@
             "latitude": "27.8402",
             "longitude": "-82.7125"
         },
+        "docType": "patient",
         "patientId": "7aaedb9164a8e5c41d8075174f068492"
     },
     {
@@ -2128,6 +2192,7 @@
             "latitude": "33.7661",
             "longitude": "-117.9738"
         },
+        "docType": "patient",
         "patientId": "f14b6a32420508e8523ba6c030980d04"
     },
     {
@@ -2161,6 +2226,7 @@
             "latitude": "32.7714",
             "longitude": "-97.2915"
         },
+        "docType": "patient",
         "patientId": "b58e43f7f0f0ebac582087b081feb182"
     },
     {
@@ -2192,6 +2258,7 @@
             "latitude": "44.0185",
             "longitude": "-123.0998"
         },
+        "docType": "patient",
         "patientId": "cab5e1229d506513e5f175dc9a4b52da"
     },
     {
@@ -2225,6 +2292,7 @@
             "latitude": "43.0696",
             "longitude": "-89.4239"
         },
+        "docType": "patient",
         "patientId": "8fec2268efff8464a2e087ec072fac48"
     },
     {
@@ -2256,6 +2324,7 @@
             "latitude": "44.2425",
             "longitude": "-88.3564"
         },
+        "docType": "patient",
         "patientId": "a7918b8144049c969db9768addc1b2e4"
     },
     {
@@ -2289,6 +2358,7 @@
             "latitude": "41.9804",
             "longitude": "-91.7098"
         },
+        "docType": "patient",
         "patientId": "538d23462aac1d821aab182083ab5b88"
     },
     {
@@ -2322,6 +2392,7 @@
             "latitude": "34.7784",
             "longitude": "-86.6091"
         },
+        "docType": "patient",
         "patientId": "79e3f54046f46ca1681affad3f1b152e"
     },
     {
@@ -2355,6 +2426,7 @@
             "latitude": "33.6773",
             "longitude": "-118.0051"
         },
+        "docType": "patient",
         "patientId": "578d0c49be32aee0e2961a428e2852a9"
     },
     {
@@ -2388,6 +2460,7 @@
             "latitude": "34.8337",
             "longitude": "-92.3289"
         },
+        "docType": "patient",
         "patientId": "88cb28c07b3c0705cabb37d19d8d1998"
     },
     {
@@ -2421,6 +2494,7 @@
             "latitude": "47.7377",
             "longitude": "-122.3431"
         },
+        "docType": "patient",
         "patientId": "6b137391d8eeff2f681b4fc50e38b63d"
     },
     {
@@ -2454,6 +2528,7 @@
             "latitude": "33.8932",
             "longitude": "-84.2539"
         },
+        "docType": "patient",
         "patientId": "f33a48f283f1b5b36e8d11df3d4e861e"
     },
     {
@@ -2487,6 +2562,7 @@
             "latitude": "37.4011",
             "longitude": "-77.4615"
         },
+        "docType": "patient",
         "patientId": "4d627aa81f05f2c0f71d3a1cffd02b28"
     },
     {
@@ -2520,6 +2596,7 @@
             "latitude": "39.0429",
             "longitude": "-95.7697"
         },
+        "docType": "patient",
         "patientId": "1c880f5a0fcaf2e4b772554fd4df8e24"
     },
     {
@@ -2553,6 +2630,7 @@
             "latitude": "43.6375",
             "longitude": "-84.2568"
         },
+        "docType": "patient",
         "patientId": "50e8312e5fc049f5a7c5420c6f9801cc"
     },
     {
@@ -2586,6 +2664,7 @@
             "latitude": "41.6782",
             "longitude": "-83.4972"
         },
+        "docType": "patient",
         "patientId": "af44879714795e48b7556ce69f2fa23a"
     },
     {
@@ -2619,6 +2698,7 @@
             "latitude": "39.0763",
             "longitude": "-77.1234"
         },
+        "docType": "patient",
         "patientId": "e4abc5ca7b937428524d3ce0e6f4dc5a"
     },
     {
@@ -2652,6 +2732,7 @@
             "latitude": "38.891",
             "longitude": "-77.0211"
         },
+        "docType": "patient",
         "patientId": "49f3b9769e3743f694bcc344f803801a"
     },
     {
@@ -2685,6 +2766,7 @@
             "latitude": "27.3822",
             "longitude": "-80.409"
         },
+        "docType": "patient",
         "patientId": "cfc509c6ceaaa51ee828c30ed2e84aef"
     },
     {
@@ -2718,6 +2800,7 @@
             "latitude": "42.9521",
             "longitude": "-71.6539"
         },
+        "docType": "patient",
         "patientId": "f2baa7390e63986a4d37cd065daea459"
     },
     {
@@ -2751,6 +2834,7 @@
             "latitude": "35.5514",
             "longitude": "-97.4075"
         },
+        "docType": "patient",
         "patientId": "a46526bf8697fd9496ef203a5d17e43a"
     },
     {
@@ -2784,6 +2868,7 @@
             "latitude": "38.8933",
             "longitude": "-77.0146"
         },
+        "docType": "patient",
         "patientId": "82826ae7d3bc83db9b24be4e7fd63f83"
     },
     {
@@ -2817,6 +2902,7 @@
             "latitude": "38.8933",
             "longitude": "-77.0146"
         },
+        "docType": "patient",
         "patientId": "eb994648d1c3955f5fcc513ca21b8e46"
     },
     {
@@ -2850,6 +2936,7 @@
             "latitude": "41.6857",
             "longitude": "-81.6728"
         },
+        "docType": "patient",
         "patientId": "e74f04039750bcc82c8dd1a7e420e3d1"
     },
     {
@@ -2883,6 +2970,7 @@
             "latitude": "35.0512",
             "longitude": "-106.7269"
         },
+        "docType": "patient",
         "patientId": "15a5e2c93bb985b3f3727dc4d63f92b0"
     },
     {
@@ -2916,6 +3004,7 @@
             "latitude": "37.5242",
             "longitude": "-77.4932"
         },
+        "docType": "patient",
         "patientId": "90d5490a589094d136961c3f84f24421"
     },
     {
@@ -2949,6 +3038,7 @@
             "latitude": "38.2352",
             "longitude": "-104.66"
         },
+        "docType": "patient",
         "patientId": "edf23cbe75947b712d26a63c8f149bfa"
     },
     {
@@ -2982,6 +3072,7 @@
             "latitude": "33.1617",
             "longitude": "-87.5144"
         },
+        "docType": "patient",
         "patientId": "a14cdcf74506e2e81928772595d892ba"
     },
     {
@@ -3015,6 +3106,7 @@
             "latitude": "40.7442",
             "longitude": "-89.7184"
         },
+        "docType": "patient",
         "patientId": "41123040cfcc65e8fceb3094d526a1e7"
     },
     {
@@ -3048,6 +3140,7 @@
             "latitude": "38.9776",
             "longitude": "-77.386"
         },
+        "docType": "patient",
         "patientId": "a660ea6ac69f8bfdddd38659a522bead"
     },
     {
@@ -3081,6 +3174,7 @@
             "latitude": "39.2663",
             "longitude": "-84.5221"
         },
+        "docType": "patient",
         "patientId": "d980f47fa460a95092d29f7821e5ba25"
     },
     {
@@ -3114,6 +3208,7 @@
             "latitude": "35.1885",
             "longitude": "-101.8165"
         },
+        "docType": "patient",
         "patientId": "29201706b0f0b9296f444dc5bb0999e7"
     },
     {
@@ -3147,6 +3242,7 @@
             "latitude": "30.0877",
             "longitude": "-89.8462"
         },
+        "docType": "patient",
         "patientId": "3f4180165ebe174d8e2c337d49d86aab"
     },
     {
@@ -3180,6 +3276,7 @@
             "latitude": "38.0283",
             "longitude": "-84.4715"
         },
+        "docType": "patient",
         "patientId": "6c63bfbe9b1307cdad42daa889b81dee"
     },
     {
@@ -3213,6 +3310,7 @@
             "latitude": "33.3363",
             "longitude": "-111.9197"
         },
+        "docType": "patient",
         "patientId": "8d17828b2c7ee6e944ca955eb11f6ce0"
     },
     {
@@ -3246,6 +3344,7 @@
             "latitude": "43.286",
             "longitude": "-77.6843"
         },
+        "docType": "patient",
         "patientId": "4a87119391ac92e1b423f1e92772adc9"
     },
     {
@@ -3277,6 +3376,7 @@
             "latitude": "39.7038",
             "longitude": "-86.3029"
         },
+        "docType": "patient",
         "patientId": "1a86dbbf8db816bd9fe9a4f6d9cc7603"
     },
     {
@@ -3308,6 +3408,7 @@
             "latitude": "33.7352",
             "longitude": "-112.1294"
         },
+        "docType": "patient",
         "patientId": "36dcb92ddd2927ba50fe0d6e154a79d1"
     },
     {
@@ -3341,6 +3442,7 @@
             "latitude": "26.6459",
             "longitude": "-80.4303"
         },
+        "docType": "patient",
         "patientId": "40e72b02392936ed8a3c227c7aa5b4d3"
     },
     {
@@ -3374,6 +3476,7 @@
             "latitude": "42.3749",
             "longitude": "-83.1087"
         },
+        "docType": "patient",
         "patientId": "2f26d2f3c39c88800d7253507c5f0657"
     },
     {
@@ -3407,6 +3510,7 @@
             "latitude": "37.9971",
             "longitude": "-87.575"
         },
+        "docType": "patient",
         "patientId": "e7d9734b03f9b0ea722fb40d3c73069b"
     },
     {
@@ -3440,6 +3544,7 @@
             "latitude": "45.5806",
             "longitude": "-122.3748"
         },
+        "docType": "patient",
         "patientId": "bac8c1170141c525c4b0fe860c327464"
     },
     {
@@ -3473,6 +3578,7 @@
             "latitude": "33.3022",
             "longitude": "-112.1226"
         },
+        "docType": "patient",
         "patientId": "f0c54346b1e9207ba4377b36060119e3"
     },
     {
@@ -3504,6 +3610,7 @@
             "latitude": "37.3589",
             "longitude": "-79.9448"
         },
+        "docType": "patient",
         "patientId": "7355b4d719828994713b5a8091016a9f"
     },
     {
@@ -3535,6 +3642,7 @@
             "latitude": "33.7866",
             "longitude": "-118.2987"
         },
+        "docType": "patient",
         "patientId": "89adca286978334eadd6b9f7f9c4311d"
     },
     {
@@ -3566,6 +3674,7 @@
             "latitude": "38.6531",
             "longitude": "-90.2435"
         },
+        "docType": "patient",
         "patientId": "192d47876a3e6d4c3123be732214233f"
     },
     {
@@ -3599,6 +3708,7 @@
             "latitude": "40.4344",
             "longitude": "-80.0248"
         },
+        "docType": "patient",
         "patientId": "8ca9646d1ececd4c730bda2201bd954b"
     },
     {
@@ -3632,6 +3742,7 @@
             "latitude": "34.0324",
             "longitude": "-119.1343"
         },
+        "docType": "patient",
         "patientId": "21972daf16afecdbcc0b0230515a87dd"
     },
     {
@@ -3663,6 +3774,7 @@
             "latitude": "40.0365",
             "longitude": "-75.1451"
         },
+        "docType": "patient",
         "patientId": "229bf62b389048396bd5d3964fb0dea2"
     },
     {
@@ -3696,6 +3808,7 @@
             "latitude": "40.6794",
             "longitude": "-74.0014"
         },
+        "docType": "patient",
         "patientId": "28c69b728097506bc6f0a9c31b6e075b"
     },
     {
@@ -3729,6 +3842,7 @@
             "latitude": "38.0702",
             "longitude": "-84.591"
         },
+        "docType": "patient",
         "patientId": "435867e3e0207425f6973758978e88d0"
     },
     {
@@ -3760,6 +3874,7 @@
             "latitude": "40.4001",
             "longitude": "-86.8602"
         },
+        "docType": "patient",
         "patientId": "4b37da17ca31ae1dc3917499e7440466"
     },
     {
@@ -3791,6 +3906,7 @@
             "latitude": "38.2352",
             "longitude": "-104.66"
         },
+        "docType": "patient",
         "patientId": "7fe7128513ba0b17f6e5c33b3ad9c146"
     },
     {
@@ -3824,6 +3940,7 @@
             "latitude": "39.7388",
             "longitude": "-104.4083"
         },
+        "docType": "patient",
         "patientId": "a948f6fbdbe69462da5374457c09a1df"
     },
     {
@@ -3855,6 +3972,7 @@
             "latitude": "42.3648",
             "longitude": "-71.8969"
         },
+        "docType": "patient",
         "patientId": "1f28689a567a2727bff92105c0b577d1"
     },
     {
@@ -3888,6 +4006,7 @@
             "latitude": "39.4336",
             "longitude": "-87.4101"
         },
+        "docType": "patient",
         "patientId": "6bd0a54f9b984ac804f7ee51dd4d7ad8"
     },
     {
@@ -3921,6 +4040,7 @@
             "latitude": "32.7673",
             "longitude": "-96.7776"
         },
+        "docType": "patient",
         "patientId": "ddb5c506137aba25cff7761080b0e56c"
     },
     {
@@ -3954,6 +4074,7 @@
             "latitude": "38.2968",
             "longitude": "-81.5547"
         },
+        "docType": "patient",
         "patientId": "1b16907b743ec383fa7f5e6223396599"
     },
     {
@@ -3987,6 +4108,7 @@
             "latitude": "41.3657",
             "longitude": "-72.9275"
         },
+        "docType": "patient",
         "patientId": "087ffb2f7e838f261daf272823920b7f"
     },
     {
@@ -4020,6 +4142,7 @@
             "latitude": "31.9714",
             "longitude": "-81.0716"
         },
+        "docType": "patient",
         "patientId": "4128ad59a75c7ba3a6c07beec8abb18b"
     },
     {
@@ -4053,6 +4176,7 @@
             "latitude": "47.368",
             "longitude": "-122.1206"
         },
+        "docType": "patient",
         "patientId": "0099f868e9b718415d1f9c33f077e4e1"
     },
     {
@@ -4086,6 +4210,7 @@
             "latitude": "33.8581",
             "longitude": "-98.5755"
         },
+        "docType": "patient",
         "patientId": "dd504401736ee02257c6b4356384cb1b"
     },
     {
@@ -4119,6 +4244,7 @@
             "latitude": "40.0418",
             "longitude": "-76.3012"
         },
+        "docType": "patient",
         "patientId": "0d5e5cdb837e0052054513c64aff76d1"
     },
     {
@@ -4152,6 +4278,7 @@
             "latitude": "32.404",
             "longitude": "-86.2539"
         },
+        "docType": "patient",
         "patientId": "0e61cae9b2ed8233e9ad9fe8b5449cfe"
     },
     {
@@ -4185,6 +4312,7 @@
             "latitude": "38.3774",
             "longitude": "-121.4444"
         },
+        "docType": "patient",
         "patientId": "5f92aef1f3b84502487f8086efbd26bb"
     },
     {
@@ -4218,6 +4346,7 @@
             "latitude": "35.26",
             "longitude": "-80.8042"
         },
+        "docType": "patient",
         "patientId": "eb44cdbbfcd531f89d8364a6d29f0253"
     },
     {
@@ -4251,6 +4380,7 @@
             "latitude": "36.8926",
             "longitude": "-76.5142"
         },
+        "docType": "patient",
         "patientId": "f6f35396e7d399e8a31e75f7f9829605"
     },
     {
@@ -4284,6 +4414,7 @@
             "latitude": "33.0169",
             "longitude": "-116.846"
         },
+        "docType": "patient",
         "patientId": "7c57d84899bca678b5a0e036b42f6111"
     },
     {
@@ -4317,6 +4448,7 @@
             "latitude": "35.5514",
             "longitude": "-97.4075"
         },
+        "docType": "patient",
         "patientId": "e2de62ab325c83c9f5c3b85ee7dbc100"
     },
     {
@@ -4350,6 +4482,7 @@
             "latitude": "41.6727",
             "longitude": "-93.5722"
         },
+        "docType": "patient",
         "patientId": "6123fa83f1048990d72791ddf54b07dc"
     },
     {
@@ -4383,6 +4516,7 @@
             "latitude": "35.5514",
             "longitude": "-97.4075"
         },
+        "docType": "patient",
         "patientId": "f03f68db04668b02e58f93a73ca870e5"
     },
     {
@@ -4416,6 +4550,7 @@
             "latitude": "33.7866",
             "longitude": "-118.2987"
         },
+        "docType": "patient",
         "patientId": "f19d4954594929eb9b92614154fc5f14"
     },
     {
@@ -4449,6 +4584,7 @@
             "latitude": "29.4189",
             "longitude": "-98.6895"
         },
+        "docType": "patient",
         "patientId": "fc6cc8daa120fc4d56c9733b225dd25e"
     },
     {
@@ -4482,6 +4618,7 @@
             "latitude": "33.0169",
             "longitude": "-116.846"
         },
+        "docType": "patient",
         "patientId": "744c3d7f16bc7c24ba122abbd8549d24"
     },
     {
@@ -4515,6 +4652,7 @@
             "latitude": "32.7635",
             "longitude": "-117.2028"
         },
+        "docType": "patient",
         "patientId": "76543f42f094a6113d027c65ef9385a3"
     },
     {
@@ -4548,6 +4686,7 @@
             "latitude": "40.7548",
             "longitude": "-73.6018"
         },
+        "docType": "patient",
         "patientId": "c966cd199fe2aec990250c42a0886353"
     },
     {
@@ -4581,6 +4720,7 @@
             "latitude": "42.3254",
             "longitude": "-89.1705"
         },
+        "docType": "patient",
         "patientId": "21f62304d923b659e4d040749cad58e6"
     },
     {
@@ -4612,6 +4752,7 @@
             "latitude": "31.6948",
             "longitude": "-106.3"
         },
+        "docType": "patient",
         "patientId": "882a03b45a0e6777ef31259de3f01f39"
     },
     {
@@ -4645,6 +4786,7 @@
             "latitude": "41.8097",
             "longitude": "-87.6533"
         },
+        "docType": "patient",
         "patientId": "90956f3ec63c2dfc56db565b35eb9dd7"
     },
     {
@@ -4678,6 +4820,7 @@
             "latitude": "35.2268",
             "longitude": "-80.8432"
         },
+        "docType": "patient",
         "patientId": "e5f2be65f55e82494a17cd89f9cb1085"
     },
     {
@@ -4711,6 +4854,7 @@
             "latitude": "25.9098",
             "longitude": "-80.3889"
         },
+        "docType": "patient",
         "patientId": "3026b6ecfaba4fdbfb8a9856b8ee29c2"
     },
     {
@@ -4744,6 +4888,7 @@
             "latitude": "40.754",
             "longitude": "-73.9808"
         },
+        "docType": "patient",
         "patientId": "a974745558eda44109d08d782a73a903"
     },
     {
@@ -4777,6 +4922,7 @@
             "latitude": "36.1398",
             "longitude": "-96.0297"
         },
+        "docType": "patient",
         "patientId": "977997ff1af51ae92b2373f7f81bdaf9"
     },
     {
@@ -4810,6 +4956,7 @@
             "latitude": "41.5968",
             "longitude": "-86.293"
         },
+        "docType": "patient",
         "patientId": "22c2d0653d333163554f5cd25290d051"
     },
     {
@@ -4841,6 +4988,7 @@
             "latitude": "32.8067",
             "longitude": "-83.6913"
         },
+        "docType": "patient",
         "patientId": "c02ede45cd160de3a7d23e9f37660d75"
     },
     {
@@ -4874,6 +5022,7 @@
             "latitude": "45.0058",
             "longitude": "-93.4193"
         },
+        "docType": "patient",
         "patientId": "7f29e446813e8c37ff3ca55b83b7086d"
     },
     {
@@ -4907,6 +5056,7 @@
             "latitude": "27.709",
             "longitude": "-80.5726"
         },
+        "docType": "patient",
         "patientId": "7d31f443cbf75879d73b6715d5bf34a4"
     },
     {
@@ -4940,6 +5090,7 @@
             "latitude": "35.2268",
             "longitude": "-80.8432"
         },
+        "docType": "patient",
         "patientId": "e3ee5952c5877198cc5f98e4c933b2a9"
     },
     {
@@ -4973,6 +5124,7 @@
             "latitude": "26.6459",
             "longitude": "-80.4303"
         },
+        "docType": "patient",
         "patientId": "3ed46462643de3ae20ed0e6052360b27"
     },
     {
@@ -5006,6 +5158,7 @@
             "latitude": "39.7495",
             "longitude": "-89.606"
         },
+        "docType": "patient",
         "patientId": "2df1adbbb8e302f5a5ea08bc5b6d7de6"
     },
     {
@@ -5039,6 +5192,7 @@
             "latitude": "40.6681",
             "longitude": "-111.9083"
         },
+        "docType": "patient",
         "patientId": "eab8ddd147913cb42433392ebf816d43"
     },
     {
@@ -5072,6 +5226,7 @@
             "latitude": "47.4497",
             "longitude": "-122.3076"
         },
+        "docType": "patient",
         "patientId": "26b5c84a8f013998e625cd637c3b909f"
     },
     {
@@ -5105,6 +5260,7 @@
             "latitude": "43.174",
             "longitude": "-77.5637"
         },
+        "docType": "patient",
         "patientId": "b0d442330206b4402e0d48c49931c6b9"
     },
     {
@@ -5138,6 +5294,7 @@
             "latitude": "38.7378",
             "longitude": "-104.6459"
         },
+        "docType": "patient",
         "patientId": "75e68e546d5ef870b89833a3d8e7eeaf"
     },
     {
@@ -5171,6 +5328,7 @@
             "latitude": "26.9668",
             "longitude": "-81.9545"
         },
+        "docType": "patient",
         "patientId": "93bacb73b995ccd3f2ff8ca7fabdd9d1"
     },
     {
@@ -5202,6 +5360,7 @@
             "latitude": "38.8808",
             "longitude": "-77.113"
         },
+        "docType": "patient",
         "patientId": "f9e5351fdc935275c45a59a089365637"
     },
     {
@@ -5235,6 +5394,7 @@
             "latitude": "38.0283",
             "longitude": "-84.4715"
         },
+        "docType": "patient",
         "patientId": "51e07f3fb3a14f55914c5ab6058b5f29"
     },
     {
@@ -5268,6 +5428,7 @@
             "latitude": "41.0655",
             "longitude": "-81.5203"
         },
+        "docType": "patient",
         "patientId": "332e27f19682ba13ab1f31a9be9b6ab6"
     },
     {
@@ -5301,6 +5462,7 @@
             "latitude": "32.8538",
             "longitude": "-117.1197"
         },
+        "docType": "patient",
         "patientId": "517d382ff95e628b433d0a2780e70180"
     },
     {
@@ -5334,6 +5496,7 @@
             "latitude": "32.4589",
             "longitude": "-93.7143"
         },
+        "docType": "patient",
         "patientId": "cf96600ee74b9b623649ced54f8744e3"
     },
     {
@@ -5367,6 +5530,7 @@
             "latitude": "38.0283",
             "longitude": "-84.4715"
         },
+        "docType": "patient",
         "patientId": "083120261750a2f1f6951b15ddef2587"
     },
     {
@@ -5400,6 +5564,7 @@
             "latitude": "37.7786",
             "longitude": "-122.4892"
         },
+        "docType": "patient",
         "patientId": "06d0d1c4d0926566dfb187ca00f86f0e"
     },
     {
@@ -5433,6 +5598,7 @@
             "latitude": "26.6492",
             "longitude": "-81.6167"
         },
+        "docType": "patient",
         "patientId": "37fa0da9bda23a4eb9b7a02baf71a4c1"
     },
     {
@@ -5466,6 +5632,7 @@
             "latitude": "42.6568",
             "longitude": "-73.7605"
         },
+        "docType": "patient",
         "patientId": "bb275d64c3386cc375e30e0c91a69d6b"
     },
     {
@@ -5499,6 +5666,7 @@
             "latitude": "40.0343",
             "longitude": "-75.1213"
         },
+        "docType": "patient",
         "patientId": "044c17b91f995c860a257ee1c848b636"
     },
     {
@@ -5532,6 +5700,7 @@
             "latitude": "25.6615",
             "longitude": "-80.441"
         },
+        "docType": "patient",
         "patientId": "5a9d9632ffec84efff7a5391a47ce82b"
     },
     {
@@ -5565,6 +5734,7 @@
             "latitude": "42.6149",
             "longitude": "-73.9708"
         },
+        "docType": "patient",
         "patientId": "101868c5934405efaff2c402a32321de"
     },
     {
@@ -5598,6 +5768,7 @@
             "latitude": "40.8247",
             "longitude": "-73.894"
         },
+        "docType": "patient",
         "patientId": "f9bf5f08d0670eec812dd6665858ee3b"
     },
     {
@@ -5631,6 +5802,7 @@
             "latitude": "40.0018",
             "longitude": "-75.1179"
         },
+        "docType": "patient",
         "patientId": "0d965fa49382138d51efb1290a54f706"
     },
     {
@@ -5664,6 +5836,7 @@
             "latitude": "33.1428",
             "longitude": "-97.0727"
         },
+        "docType": "patient",
         "patientId": "e6c2aa0d4969b13aee334aef30951b7c"
     },
     {
@@ -5697,6 +5870,7 @@
             "latitude": "32.432",
             "longitude": "-99.7724"
         },
+        "docType": "patient",
         "patientId": "1b470f5dbc78c9a6dfdac94098f9e64e"
     },
     {
@@ -5730,6 +5904,7 @@
             "latitude": "41.0655",
             "longitude": "-81.5203"
         },
+        "docType": "patient",
         "patientId": "018d2e93216991a1daebdb2012bef7f9"
     },
     {
@@ -5761,6 +5936,7 @@
             "latitude": "35.2017",
             "longitude": "-89.9715"
         },
+        "docType": "patient",
         "patientId": "ac4bce5284c69fd1b4dc8c93c8f94864"
     },
     {
@@ -5794,6 +5970,7 @@
             "latitude": "33.2765",
             "longitude": "-112.1872"
         },
+        "docType": "patient",
         "patientId": "bb619396f188daed4e8bf37eb0f620b1"
     },
     {
@@ -5827,6 +6004,7 @@
             "latitude": "39.9106",
             "longitude": "-83.7856"
         },
+        "docType": "patient",
         "patientId": "4ac95886f3fa0e56b66b6e02d45244b7"
     },
     {
@@ -5860,6 +6038,7 @@
             "latitude": "28.5663",
             "longitude": "-81.2608"
         },
+        "docType": "patient",
         "patientId": "e387a2d8165f688d22f61c436ba7c225"
     },
     {
@@ -5893,6 +6072,7 @@
             "latitude": "37.6802",
             "longitude": "-121.9215"
         },
+        "docType": "patient",
         "patientId": "e025ec4e34df17036b380503975b8018"
     },
     {
@@ -5926,6 +6106,7 @@
             "latitude": "39.6255",
             "longitude": "-104.7874"
         },
+        "docType": "patient",
         "patientId": "417c63cfb6bda132a9f463ecc15bc2c1"
     },
     {
@@ -5959,6 +6140,7 @@
             "latitude": "36.5799",
             "longitude": "-82.5733"
         },
+        "docType": "patient",
         "patientId": "e2360eaf0baa920adce8454e11ea7e5a"
     },
     {
@@ -5992,6 +6174,7 @@
             "latitude": "39.9597",
             "longitude": "-75.2024"
         },
+        "docType": "patient",
         "patientId": "03bcc0c6788d7127610fcbd7dd586ef6"
     },
     {
@@ -6025,6 +6208,7 @@
             "latitude": "34.1073",
             "longitude": "-118.2266"
         },
+        "docType": "patient",
         "patientId": "944c4f23aa3d48e195f84989511f391c"
     },
     {
@@ -6058,6 +6242,7 @@
             "latitude": "42.1707",
             "longitude": "-72.6048"
         },
+        "docType": "patient",
         "patientId": "289b0f3428d6a3ea034dad7a41fd87a6"
     },
     {
@@ -6091,6 +6276,7 @@
             "latitude": "41.6255",
             "longitude": "-93.6736"
         },
+        "docType": "patient",
         "patientId": "8300c08aa0f407c0572e9823fbf2a3cf"
     },
     {
@@ -6124,6 +6310,7 @@
             "latitude": "39.8326",
             "longitude": "-86.0836"
         },
+        "docType": "patient",
         "patientId": "65820ce86839dcc9d2b389b66a3a1a1c"
     },
     {
@@ -6155,6 +6342,7 @@
             "latitude": "37.799",
             "longitude": "-122.2337"
         },
+        "docType": "patient",
         "patientId": "c5304e1ac47030eb515ab86617828ce5"
     },
     {
@@ -6188,6 +6376,7 @@
             "latitude": "41.9705",
             "longitude": "-70.7014"
         },
+        "docType": "patient",
         "patientId": "0e7b6644237f81f6c2b071c5d41e0d5e"
     },
     {
@@ -6221,6 +6410,7 @@
             "latitude": "30.2107",
             "longitude": "-97.9427"
         },
+        "docType": "patient",
         "patientId": "72653face4d51bc0d8683303c47a2ee7"
     },
     {
@@ -6254,6 +6444,7 @@
             "latitude": "37.5422",
             "longitude": "-97.2871"
         },
+        "docType": "patient",
         "patientId": "4c4071ca46420efe0141b73f118dcbc2"
     },
     {
@@ -6287,6 +6478,7 @@
             "latitude": "29.8744",
             "longitude": "-95.5278"
         },
+        "docType": "patient",
         "patientId": "f816361683b3caf7af3e1ada5d2724c6"
     },
     {
@@ -6320,6 +6512,7 @@
             "latitude": "38.8971",
             "longitude": "-77.0554"
         },
+        "docType": "patient",
         "patientId": "5b389f34e7732c79a8700f75cfc6bb9e"
     },
     {
@@ -6353,6 +6546,7 @@
             "latitude": "37.7848",
             "longitude": "-122.7278"
         },
+        "docType": "patient",
         "patientId": "7b10951833147eca8157a25ab00eda39"
     },
     {
@@ -6386,6 +6580,7 @@
             "latitude": "38.9164",
             "longitude": "-76.9948"
         },
+        "docType": "patient",
         "patientId": "f6fccf0f0b70fc9fea4e520913fe4ad4"
     },
     {
@@ -6419,6 +6614,7 @@
             "latitude": "37.9625",
             "longitude": "-121.2624"
         },
+        "docType": "patient",
         "patientId": "1efb277ef00b51a3242520edf91bdd23"
     },
     {
@@ -6452,6 +6648,7 @@
             "latitude": "32.3766",
             "longitude": "-95.1252"
         },
+        "docType": "patient",
         "patientId": "6be75e7cdf123b1ff00420fcde83a328"
     },
     {
@@ -6485,6 +6682,7 @@
             "latitude": "38.8933",
             "longitude": "-77.0146"
         },
+        "docType": "patient",
         "patientId": "3f5c3e7e002cb55c38ba03687a9b023a"
     },
     {
@@ -6518,6 +6716,7 @@
             "latitude": "32.2832",
             "longitude": "-90.2306"
         },
+        "docType": "patient",
         "patientId": "50131f958ea8b72cd8b6713b2ab34c9c"
     },
     {
@@ -6551,6 +6750,7 @@
             "latitude": "40.7628",
             "longitude": "-73.9785"
         },
+        "docType": "patient",
         "patientId": "35cd954a986cca647a8c02e572c99b19"
     },
     {
@@ -6582,6 +6782,7 @@
             "latitude": "35.8887",
             "longitude": "-78.6393"
         },
+        "docType": "patient",
         "patientId": "be0e8ddc49e84f09c9c429310daa89a6"
     },
     {
@@ -6615,6 +6816,7 @@
             "latitude": "42.3389",
             "longitude": "-70.9196"
         },
+        "docType": "patient",
         "patientId": "7b966902fb4b4f077df0bc28571364fd"
     },
     {
@@ -6648,6 +6850,7 @@
             "latitude": "38.3774",
             "longitude": "-121.4444"
         },
+        "docType": "patient",
         "patientId": "e3a6cfccb3e3be5979775c8346c1844c"
     },
     {
@@ -6681,6 +6884,7 @@
             "latitude": "38.8933",
             "longitude": "-77.0146"
         },
+        "docType": "patient",
         "patientId": "2821a848ac5bd576949d8963cb7283dd"
     },
     {
@@ -6714,6 +6918,7 @@
             "latitude": "31.6948",
             "longitude": "-106.3"
         },
+        "docType": "patient",
         "patientId": "be71bc257ef08a7c4187250eeae79918"
     },
     {
@@ -6747,6 +6952,7 @@
             "latitude": "41.9166",
             "longitude": "-88.1208"
         },
+        "docType": "patient",
         "patientId": "6c62001f74185fcde0f13e73edd1638b"
     },
     {
@@ -6780,6 +6986,7 @@
             "latitude": "29.5407",
             "longitude": "-98.5521"
         },
+        "docType": "patient",
         "patientId": "65a95c8aea1db017ba912fd21e8e8e61"
     },
     {
@@ -6813,6 +7020,7 @@
             "latitude": "40.4344",
             "longitude": "-80.0248"
         },
+        "docType": "patient",
         "patientId": "2f619e19541bae74b23d89a7cd919342"
     },
     {
@@ -6846,6 +7054,7 @@
             "latitude": "33.4061",
             "longitude": "-112.0265"
         },
+        "docType": "patient",
         "patientId": "4425ad5fc5ee2ee5b3d08dc11b48030e"
     },
     {
@@ -6879,6 +7088,7 @@
             "latitude": "32.8538",
             "longitude": "-117.1197"
         },
+        "docType": "patient",
         "patientId": "5e0719c1c8a07d635fd4272ea6d79897"
     },
     {
@@ -6912,6 +7122,7 @@
             "latitude": "30.5159",
             "longitude": "-91.0804"
         },
+        "docType": "patient",
         "patientId": "bd9c1ee1788ae4fa10829bcd70da4c7d"
     },
     {
@@ -6945,6 +7156,7 @@
             "latitude": "33.0169",
             "longitude": "-116.846"
         },
+        "docType": "patient",
         "patientId": "1d4f91b868a084bfb403a511d5bba53f"
     },
     {
@@ -6978,6 +7190,7 @@
             "latitude": "33.9754",
             "longitude": "-118.417"
         },
+        "docType": "patient",
         "patientId": "d80473efe1002f3f06a86039a6871567"
     },
     {
@@ -7011,6 +7224,7 @@
             "latitude": "31.55",
             "longitude": "-84.0612"
         },
+        "docType": "patient",
         "patientId": "dfc9dfacac3348ac08eb1e855dea119b"
     },
     {
@@ -7044,6 +7258,7 @@
             "latitude": "30.0505",
             "longitude": "-95.4695"
         },
+        "docType": "patient",
         "patientId": "4d61235c9aaf2b9e3c6500182b286556"
     },
     {
@@ -7077,6 +7292,7 @@
             "latitude": "39.9772",
             "longitude": "-75.2545"
         },
+        "docType": "patient",
         "patientId": "2103de20388ac5669f8c54c5045ef75b"
     },
     {
@@ -7110,6 +7326,7 @@
             "latitude": "34.734",
             "longitude": "-86.5229"
         },
+        "docType": "patient",
         "patientId": "34a605f104f0b2f4c24e1117448b0398"
     },
     {
@@ -7143,6 +7360,7 @@
             "latitude": "31.9701",
             "longitude": "-111.8907"
         },
+        "docType": "patient",
         "patientId": "be155981738a1ba1edb3dabf19de7d1a"
     },
     {
@@ -7176,6 +7394,7 @@
             "latitude": "36.7563",
             "longitude": "-121.6703"
         },
+        "docType": "patient",
         "patientId": "6bcc759110c9fa6fdef204d73bee45d9"
     },
     {
@@ -7209,6 +7428,7 @@
             "latitude": "41.4335",
             "longitude": "-81.6323"
         },
+        "docType": "patient",
         "patientId": "69ba5ae638780ebc19915379fa08d04c"
     }
 ]
