@@ -8,9 +8,10 @@
             var service = {
                 results: [],
                 search: function (terms) {
-                    alert(terms);
-                    return $q.when(dataSvc.all(), function (result) {
-                        service.results = result.rows;
+                    return $q.when(dataSvc.filter('patient', function (doc) {
+                        return doc.identity.firstName.toLowerCase().indexOf(terms) > -1 || doc.identity.lastName.toLowerCase().indexOf(terms) > -1;
+                    }), function (result) {
+                        angular.copy(result, service.results);
                     }, function (err) {
                         console.log(err);
                     });
@@ -22,8 +23,11 @@
 
     app.controller('SearchController', ['$scope', 'SearchService',
         function ($scope, searchSvc) {
-           // $scope.onSelect = function(id){
-            //    alert(id);
-           // }
+            $scope.results = searchSvc.results;
+
+            $scope.onSelect = function (id) {
+                alert(id);
+            };
+
         }]);
 })();

@@ -4,22 +4,26 @@
 
     app.factory('DataService', ['$q', function ($q) {
 
-        var _db = new PouchDB('worldvax.db');
+        //  var _db = new PouchDB('worldvax.db');
 
         var service = {
             'info': function () {
-                return _db.info().then(function (result) {
+                var db = new PouchDB('worldvax.db');
+                return db.info().then(function (result) {
                     return result;
                 });
             },
             'all': function () {
-                return _db.allDocs({include_docs:true}).then(function (result) {
+                var db = new PouchDB('worldvax.db');
+                return db.allDocs({ include_docs: true }).then(function (result) {
                     return result;
                 });
             },
             'filter': function (docType, selector) {
-                return $q.when(_db.query(function (doc) {
-                    if (doc.docType === docType && selector(doc)) {
+                var db = new PouchDB('worldvax.db');
+                return $q.when(db.query(function (doc) {
+                 //   alert(JSON.stringify(doc));
+                    if (selector(doc)) {
                         emit(doc);
                     }
                 }));
