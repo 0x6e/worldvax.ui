@@ -17,7 +17,7 @@
                 search: function (terms) {
                     var indexer = getIndexer(terms);
                     dataSvc.filter(terms)
-                        .then(function (data) {alert(JSON.stringify(data.rows));
+                        .then(function (data) {
                             angular.copy(data.rows, service.results);
                         });
                 }
