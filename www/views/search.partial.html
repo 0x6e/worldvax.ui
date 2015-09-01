@@ -1,7 +1,7 @@
 <div ng-controller="SearchController">
 	<md-content>
 		<div layout="row" layout-wrap>
-			<md-card class="hand result-card" ng-repeat="result in results">
+			<md-card class="hand result-card" ng-repeat="result in search.results">
 				<md-button ng-click="onSelect(result._id)" class="card-button md-title">
 					<div layout="row" layout-align="start center">
 						<img ng-src="photos/{{result.doc.identity.photo}}" onerror="this.src='img/unknown-90x100.jpg';'" />

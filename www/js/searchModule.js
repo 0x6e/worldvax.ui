@@ -5,16 +5,21 @@
     app.factory('SearchService', ['$q', 'DataService',
         function ($q, dataSvc) {
 
+            var getIndexer = function (terms) {
+                var searchStr = terms.toLowerCase();
+                return function (doc) {
+                    return doc.identity.firstName.toLowerCase().indexOf(searchStr) > -1 || doc.identity.lastName.toLowerCase().indexOf(searchStr) > -1;
+                }
+            }
+
             var service = {
                 results: [],
                 search: function (terms) {
-                    return $q.when(dataSvc.filter('patient', function (doc) {
-                        return doc.identity.firstName.toLowerCase().indexOf(terms) > -1 || doc.identity.lastName.toLowerCase().indexOf(terms) > -1;
-                    }), function (result) {
-                        angular.copy(result, service.results);
-                    }, function (err) {
-                        console.log(err);
-                    });
+                    var indexer = getIndexer(terms);
+                    dataSvc.filter(terms)
+                        .then(function (data) {alert(JSON.stringify(data.rows));
+                            angular.copy(data.rows, service.results);
+                        });
                 }
             };
 
@@ -23,7 +28,7 @@
 
     app.controller('SearchController', ['$scope', 'SearchService',
         function ($scope, searchSvc) {
-            $scope.results = searchSvc.results;
+            $scope.search = searchSvc
 
             $scope.onSelect = function (id) {
                 alert(id);
