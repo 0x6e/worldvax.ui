@@ -5,18 +5,19 @@
     app.factory('SearchService', ['$q', 'DataService',
         function ($q, dataSvc) {
 
-            var getIndexer = function (terms) {
-                var searchStr = terms.toLowerCase();
+            var getMatcher = function (text) {
+                var re = new RegExp(text, "i");
                 return function (doc) {
-                    return doc.identity.firstName.toLowerCase().indexOf(searchStr) > -1 || doc.identity.lastName.toLowerCase().indexOf(searchStr) > -1;
+                    var key = doc.identity.firstName + '|' + doc.identity.lastName;
+                    return re.test(key);
                 }
             }
 
             var service = {
                 results: [],
-                search: function (terms) {
-                    var indexer = getIndexer(terms);
-                    dataSvc.filter(terms)
+                search: function (text) {
+                    var matcher = getMatcher(text);
+                    dataSvc.filter(matcher)
                         .then(function (data) {
                             angular.copy(data.rows, service.results);
                         });
