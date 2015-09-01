@@ -1,9 +1,9 @@
 (function () {
 
-    var app = angular.module("mirSearch", ['mirData']);
+    var app = angular.module('mirSearch', ['mirData', 'mirNavigation']);
 
-    app.factory('SearchService', ['$q', 'DataService',
-        function ($q, dataSvc) {
+    app.factory('SearchService', ['DataService',
+        function (dataSvc) {
 
             var getMatcher = function (text) {
                 var re = new RegExp(text, "i");
@@ -27,12 +27,17 @@
             return service;
         }]);
 
-    app.controller('SearchController', ['$scope', 'SearchService',
-        function ($scope, searchSvc) {
+    app.controller('SearchController', ['$scope', '$routeParams', 'NavigationService', 'SearchService',
+        function ($scope, $routeParams, navSvc, searchSvc) {
             $scope.search = searchSvc
 
+            var text = $routeParams.text;
+            if (text) {
+                searchSvc.search(text);
+            }
+
             $scope.onSelect = function (id) {
-                alert(id);
+                navSvc.goTo('/patient/' + id)
             };
 
         }]);

@@ -14,17 +14,18 @@
 
     });
 
-    app.controller('NavigationController', ['$scope', 'NavigationService','SearchService',
-         function ($scope, navSvc, searchSvc) {
-        $scope.query = '';
+    app.controller('NavigationController', ['$scope', 'NavigationService',
+        function ($scope, navSvc) {
+            $scope.query = '';
 
-        this.onNavigate = function (route) {
-            navSvc.goTo(route);
-        };
+            this.onNavigate = function (route) {
+                navSvc.goTo(route);
+            };
 
-        this.onSearch = function () {
-            searchSvc.search($scope.query);
-            navSvc.goTo('search');
-        };
-    }]);
+            this.onSearch = function () {
+                if ($scope.query) {
+                    navSvc.goTo('/search/' + $scope.query);
+                }
+            };
+        }]);
 })();

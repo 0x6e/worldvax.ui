@@ -5,8 +5,9 @@
         'ngMaterial',
         'ngMdIcons',
         'mirData',
-        'mirSearch',
-        'mirNavigation'
+        'mirNavigation',
+        'mirPatient',
+        'mirSearch'
     ])
         .config(function ($mdThemingProvider) {
             $mdThemingProvider.theme('default')
@@ -18,9 +19,13 @@
                 .when('/home', {
                     templateUrl: 'views/home.partial.html'
                 })
-                .when('/search', {
+                .when('/search/:text', {
                     templateUrl: 'views/search.partial.html',
                     controller: 'SearchController'
+                })
+                .when('/patient/:id', {
+                    templateUrl: 'views/patient.partial.html',
+                    controller: 'PatientController'
                 })
                 .otherwise({ redirectTo: '/home' });
         })
