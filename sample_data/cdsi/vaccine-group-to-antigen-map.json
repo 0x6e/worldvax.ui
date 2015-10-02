@@ -1,0 +1,82 @@
+[
+    {
+        "VaccineGroup": "MMR",
+        "Antigen": "Measles",
+        "docType": "vaccinegroupAntigen"
+    },
+    {
+        "VaccineGroup": "MMR",
+        "Antigen": "Mumps",
+        "docType": "vaccinegroupAntigen"
+    },
+    {
+        "VaccineGroup": "MMR",
+        "Antigen": "Rubella",
+        "docType": "vaccinegroupAntigen"
+    },
+    {
+        "VaccineGroup": "DTaP/Tdap/Td",
+        "Antigen": "Diphtheria",
+        "docType": "vaccinegroupAntigen"
+    },
+    {
+        "VaccineGroup": "DTaP/Tdap/Td",
+        "Antigen": "Tetanus",
+        "docType": "vaccinegroupAntigen"
+    },
+    {
+        "VaccineGroup": "DTaP/Tdap/Td",
+        "Antigen": "Pertussis",
+        "docType": "vaccinegroupAntigen"
+    },
+    {
+        "VaccineGroup": "HepA",
+        "Antigen": "Hep A",
+        "docType": "vaccinegroupAntigen"
+    },
+    {
+        "VaccineGroup": "HepB",
+        "Antigen": "Hep B",
+        "docType": "vaccinegroupAntigen"
+    },
+    {
+        "VaccineGroup": "Hib",
+        "Antigen": "Hib",
+        "docType": "vaccinegroupAntigen"
+    },
+    {
+        "VaccineGroup": "HPV",
+        "Antigen": "HPV",
+        "docType": "vaccinegroupAntigen"
+    },
+    {
+        "VaccineGroup": "Influenza",
+        "Antigen": "Influenza",
+        "docType": "vaccinegroupAntigen"
+    },
+    {
+        "VaccineGroup": "MCV",
+        "Antigen": "MCV",
+        "docType": "vaccinegroupAntigen"
+    },
+    {
+        "VaccineGroup": "PCV",
+        "Antigen": "PCV",
+        "docType": "vaccinegroupAntigen"
+    },
+    {
+        "VaccineGroup": "Polio",
+        "Antigen": "Polio",
+        "docType": "vaccinegroupAntigen"
+    },
+    {
+        "VaccineGroup": "Rotavirus",
+        "Antigen": "Rotavirus",
+        "docType": "vaccinegroupAntigen"
+    },
+    {
+        "VaccineGroup": "Varicella",
+        "Antigen": "Varicella",
+        "docType": "vaccinegroupAntigen"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "Name": "MMR",
+        "AdministerFullVaccineGroup": "Yes",
+        "docType": "vaccineGroup"
+    },
+    {
+        "Name": "DTaP/Tdap/Td",
+        "AdministerFullVaccineGroup": "No",
+        "docType": "vaccineGroup"
+    },
+    {
+        "Name": "HepA",
+        "AdministerFullVaccineGroup": "n/a",
+        "docType": "vaccineGroup"
+    },
+    {
+        "Name": "HepB",
+        "AdministerFullVaccineGroup": "n/a",
+        "docType": "vaccineGroup"
+    },
+    {
+        "Name": "Hib",
+        "AdministerFullVaccineGroup": "n/a",
+        "docType": "vaccineGroup"
+    },
+    {
+        "Name": "HPV",
+        "AdministerFullVaccineGroup": "n/a",
+        "docType": "vaccineGroup"
+    },
+    {
+        "Name": "Influenza",
+        "AdministerFullVaccineGroup": "n/a",
+        "docType": "vaccineGroup"
+    },
+    {
+        "Name": "MCV",
+        "AdministerFullVaccineGroup": "n/a",
+        "docType": "vaccineGroup"
+    },
+    {
+        "Name": "PCV",
+        "AdministerFullVaccineGroup": "n/a",
+        "docType": "vaccineGroup"
+    },
+    {
+        "Name": "Polio",
+        "AdministerFullVaccineGroup": "n/a",
+        "docType": "vaccineGroup"
+    },
+    {
+        "Name": "Rotavirus",
+        "AdministerFullVaccineGroup": "n/a",
+        "docType": "vaccineGroup"
+    },
+    {
+        "Name": "Varicella",
+        "AdministerFullVaccineGroup": "n/a",
+        "docType": "vaccineGroup"
+    }
+]

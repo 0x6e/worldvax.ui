@@ -1,0 +1,764 @@
+[
+    {
+        "CvxCode": 1,
+        "ShortDescription": "DTP",
+        "Antigen": "Diphtheria",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 1,
+        "ShortDescription": "DTP",
+        "Antigen": "Tetanus",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 1,
+        "ShortDescription": "DTP",
+        "Antigen": "Pertussis",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 2,
+        "ShortDescription": "OPV",
+        "Antigen": "Polio",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 3,
+        "ShortDescription": "MMR",
+        "Antigen": "Measles",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 3,
+        "ShortDescription": "MMR",
+        "Antigen": "Mumps",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 3,
+        "ShortDescription": "MMR",
+        "Antigen": "Rubella",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 4,
+        "ShortDescription": "M/R",
+        "Antigen": "Measles",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 4,
+        "ShortDescription": "M/R",
+        "Antigen": "Rubella",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 5,
+        "ShortDescription": "measles",
+        "Antigen": "Measles",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 6,
+        "ShortDescription": "rubella",
+        "Antigen": "Rubella",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 7,
+        "ShortDescription": "mumps",
+        "Antigen": "Mumps",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 8,
+        "ShortDescription": "Hep B, adolescent or pediatric",
+        "Antigen": "Hep B",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 9,
+        "ShortDescription": "Td (adult), adsorbed",
+        "Antigen": "Tetanus",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 9,
+        "ShortDescription": "Td (adult), adsorbed",
+        "Antigen": "Diphtheria",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 10,
+        "ShortDescription": "IPV",
+        "Antigen": "Polio",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 11,
+        "ShortDescription": "pertussis",
+        "Antigen": "Pertussis",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 12,
+        "ShortDescription": "diphtheria antitoxin",
+        "Antigen": "Diphtheria",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 15,
+        "ShortDescription": "influenza, split (incl. purified surface antigen)",
+        "Antigen": "Influenza",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 16,
+        "ShortDescription": "influenza, whole",
+        "Antigen": "Influenza",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 17,
+        "ShortDescription": "Hib, unspecified formulation",
+        "Antigen": "Hib",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 20,
+        "ShortDescription": "DTaP",
+        "Antigen": "Diphtheria",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 20,
+        "ShortDescription": "DTaP",
+        "Antigen": "Tetanus",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 20,
+        "ShortDescription": "DTaP",
+        "Antigen": "Pertussis",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 21,
+        "ShortDescription": "varicella",
+        "Antigen": "Varicella",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 22,
+        "ShortDescription": "DTP-Hib",
+        "Antigen": "Diphtheria",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 22,
+        "ShortDescription": "DTP-Hib",
+        "Antigen": "Tetanus",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 22,
+        "ShortDescription": "DTP-Hib",
+        "Antigen": "Pertussis",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 22,
+        "ShortDescription": "DTP-Hib",
+        "Antigen": "Hib",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 28,
+        "ShortDescription": "DT (pediatric)",
+        "Antigen": "Diphtheria",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 28,
+        "ShortDescription": "DT (pediatric)",
+        "Antigen": "Tetanus",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 32,
+        "ShortDescription": "meningococcal MPSV4",
+        "Antigen": "MCV",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 35,
+        "ShortDescription": "tetanus toxoid, adsorbed",
+        "Antigen": "Tetanus",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 38,
+        "ShortDescription": "rubella/mumps",
+        "Antigen": "Rubella",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 38,
+        "ShortDescription": "rubella/mumps",
+        "Antigen": "Mumps",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 42,
+        "ShortDescription": "Hep B, adolescent/high risk infant",
+        "Antigen": "Hep B",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 43,
+        "ShortDescription": "Hep B, adult",
+        "Antigen": "Hep B",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 44,
+        "ShortDescription": "Hep B, dialysis",
+        "Antigen": "Hep B",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 45,
+        "ShortDescription": "Hep B, unspecified formulation",
+        "Antigen": "Hep B",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 46,
+        "ShortDescription": "Hib (PRP-D)",
+        "Antigen": "Hib",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 47,
+        "ShortDescription": "Hib (HbOC)",
+        "Antigen": "Hib",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 48,
+        "ShortDescription": "Hib (PRP-T)",
+        "Antigen": "Hib",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 49,
+        "ShortDescription": "Hib (PRP-OMP)",
+        "Antigen": "Hib",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 50,
+        "ShortDescription": "DTaP-Hib",
+        "Antigen": "Diphtheria",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 50,
+        "ShortDescription": "DTaP-Hib",
+        "Antigen": "Tetanus",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 50,
+        "ShortDescription": "DTaP-Hib",
+        "Antigen": "Pertussis",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 50,
+        "ShortDescription": "DTaP-Hib",
+        "Antigen": "Hib",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 51,
+        "ShortDescription": "Hib-Hep B",
+        "Antigen": "Hib",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 51,
+        "ShortDescription": "Hib-Hep B",
+        "Antigen": "Hep B",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 52,
+        "ShortDescription": "Hep A, adult",
+        "Antigen": "Hep A",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 62,
+        "ShortDescription": "HPV, quadrivalent",
+        "Antigen": "HPV",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 74,
+        "ShortDescription": "rotavirus, tetravalent",
+        "Antigen": "Rotavirus",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 83,
+        "ShortDescription": "Hep A, ped/adol, 2 dose",
+        "Antigen": "Hep A",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 84,
+        "ShortDescription": "Hep A, ped/adol, 3 dose",
+        "Antigen": "Hep A",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 85,
+        "ShortDescription": "Hep A, unspecified formulation",
+        "Antigen": "Hep A",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 88,
+        "ShortDescription": "influenza, unspecified formulation",
+        "Antigen": "Influenza",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 89,
+        "ShortDescription": "polio, unspecified formulation",
+        "Antigen": "Polio",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 94,
+        "ShortDescription": "MMRV",
+        "Antigen": "Measles",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 94,
+        "ShortDescription": "MMRV",
+        "Antigen": "Mumps",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 94,
+        "ShortDescription": "MMRV",
+        "Antigen": "Rubella",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 94,
+        "ShortDescription": "MMRV",
+        "Antigen": "Varicella",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 100,
+        "ShortDescription": "pneumococcal conjugate PCV 7",
+        "Antigen": "PCV",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 102,
+        "ShortDescription": "DTP-Hib-Hep B",
+        "Antigen": "Diphtheria",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 102,
+        "ShortDescription": "DTP-Hib-Hep B",
+        "Antigen": "Tetanus",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 102,
+        "ShortDescription": "DTP-Hib-Hep B",
+        "Antigen": "Pertussis",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 102,
+        "ShortDescription": "DTP-Hib-Hep B",
+        "Antigen": "Hib",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 102,
+        "ShortDescription": "DTP-Hib-Hep B",
+        "Antigen": "Hep B",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 104,
+        "ShortDescription": "Hep A-Hep B",
+        "Antigen": "Hep A",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 104,
+        "ShortDescription": "Hep A-Hep B",
+        "Antigen": "Hep B",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 106,
+        "ShortDescription": "DTaP, 5 pertussis antigens",
+        "Antigen": "Diphtheria",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 106,
+        "ShortDescription": "DTaP, 5 pertussis antigens",
+        "Antigen": "Tetanus",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 106,
+        "ShortDescription": "DTaP, 5 pertussis antigens",
+        "Antigen": "Pertussis",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 107,
+        "ShortDescription": "DTaP, unspecified formulation",
+        "Antigen": "Diphtheria",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 107,
+        "ShortDescription": "DTaP, unspecified formulation",
+        "Antigen": "Tetanus",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 107,
+        "ShortDescription": "DTaP, unspecified formulation",
+        "Antigen": "Pertussis",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 108,
+        "ShortDescription": "meningococcal, unspecified formulation",
+        "Antigen": "MCV",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 109,
+        "ShortDescription": "pneumococcal, unspecified formulation",
+        "Antigen": "PCV",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 110,
+        "ShortDescription": "DTaP-Hep B-IPV",
+        "Antigen": "Diphtheria",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 110,
+        "ShortDescription": "DTaP-Hep B-IPV",
+        "Antigen": "Tetanus",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 110,
+        "ShortDescription": "DTaP-Hep B-IPV",
+        "Antigen": "Pertussis",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 110,
+        "ShortDescription": "DTaP-Hep B-IPV",
+        "Antigen": "Hep B",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 110,
+        "ShortDescription": "DTaP-Hep B-IPV",
+        "Antigen": "Polio",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 111,
+        "ShortDescription": "influenza, live, intranasal",
+        "Antigen": "Influenza",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 112,
+        "ShortDescription": "tetanus toxoid, unspecified formulation",
+        "Antigen": "Tetanus",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 113,
+        "ShortDescription": "Td (adult) preservative free",
+        "Antigen": "Tetanus",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 113,
+        "ShortDescription": "Td (adult) preservative free",
+        "Antigen": "Diphtheria",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 114,
+        "ShortDescription": "meningococcal MCV4P",
+        "Antigen": "MCV",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 115,
+        "ShortDescription": "Tdap",
+        "Antigen": "Tetanus",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 115,
+        "ShortDescription": "Tdap",
+        "Antigen": "Diphtheria",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 115,
+        "ShortDescription": "Tdap",
+        "Antigen": "Pertussis",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 116,
+        "ShortDescription": "rotavirus, pentavalent",
+        "Antigen": "Rotavirus",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 118,
+        "ShortDescription": "HPV, bivalent",
+        "Antigen": "HPV",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 119,
+        "ShortDescription": "rotavirus, monovalent",
+        "Antigen": "Rotavirus",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 120,
+        "ShortDescription": "DTaP-Hib-IPV",
+        "Antigen": "Diphtheria",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 120,
+        "ShortDescription": "DTaP-Hib-IPV",
+        "Antigen": "Tetanus",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 120,
+        "ShortDescription": "DTaP-Hib-IPV",
+        "Antigen": "Pertussis",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 120,
+        "ShortDescription": "DTaP-Hib-IPV",
+        "Antigen": "Hib",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 120,
+        "ShortDescription": "DTaP-Hib-IPV",
+        "Antigen": "Polio",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 122,
+        "ShortDescription": "rotavirus, unspecified formulation",
+        "Antigen": "Rotavirus",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 130,
+        "ShortDescription": "DTaP-IPV",
+        "Antigen": "Diphtheria",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 130,
+        "ShortDescription": "DTaP-IPV",
+        "Antigen": "Tetanus",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 130,
+        "ShortDescription": "DTaP-IPV",
+        "Antigen": "Pertussis",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 130,
+        "ShortDescription": "DTaP-IPV",
+        "Antigen": "Polio",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 132,
+        "ShortDescription": "DTaP-IPV-HIB-HEP B, historical",
+        "Antigen": "Diphtheria",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 132,
+        "ShortDescription": "DTaP-IPV-HIB-HEP B, historical",
+        "Antigen": "Tetanus",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 132,
+        "ShortDescription": "DTaP-IPV-HIB-HEP B, historical",
+        "Antigen": "Pertussis",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 132,
+        "ShortDescription": "DTaP-IPV-HIB-HEP B, historical",
+        "Antigen": "Polio",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 132,
+        "ShortDescription": "DTaP-IPV-HIB-HEP B, historical",
+        "Antigen": "Hib",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 132,
+        "ShortDescription": "DTaP-IPV-HIB-HEP B, historical",
+        "Antigen": "Hep B",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 133,
+        "ShortDescription": "Pneumococcal conjugate PCV 13",
+        "Antigen": "PCV",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 135,
+        "ShortDescription": "Influenza, high dose seasonal",
+        "Antigen": "Influenza",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 136,
+        "ShortDescription": "Meningococcal MCV4O",
+        "Antigen": "MCV",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 137,
+        "ShortDescription": "HPV, unspecified formulation",
+        "Antigen": "HPV",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 138,
+        "ShortDescription": "Td (adult)",
+        "Antigen": "Tetanus",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 138,
+        "ShortDescription": "Td (adult)",
+        "Antigen": "Diphtheria",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 139,
+        "ShortDescription": "Td(adult) unspecified formulation",
+        "Antigen": "Tetanus",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 139,
+        "ShortDescription": "Td(adult) unspecified formulation",
+        "Antigen": "Diphtheria",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 140,
+        "ShortDescription": "Influenza, seasonal, injectable, preservative free",
+        "Antigen": "Influenza",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 141,
+        "ShortDescription": "Influenza, seasonal, injectable",
+        "Antigen": "Influenza",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 142,
+        "ShortDescription": "tetanus toxoid, not adsorbed",
+        "Antigen": "Tetanus",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 144,
+        "ShortDescription": "influenza, seasonal, intradermal, preservative free",
+        "Antigen": "Influenza",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 146,
+        "ShortDescription": "DTaP,IPV,Hib,HepB",
+        "Antigen": "Diphtheria",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 146,
+        "ShortDescription": "DTaP,IPV,Hib,HepB",
+        "Antigen": "Tetanus",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 146,
+        "ShortDescription": "DTaP,IPV,Hib,HepB",
+        "Antigen": "Pertussis",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 146,
+        "ShortDescription": "DTaP,IPV,Hib,HepB",
+        "Antigen": "Hib",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 146,
+        "ShortDescription": "DTaP,IPV,Hib,HepB",
+        "Antigen": "Hep B",
+        "docType": "cvxAntigen"
+    },
+    {
+        "CvxCode": 147,
+        "ShortDescription": "meningococcal MCV4, unspecified formulation",
+        "Antigen": "MCV",
+        "docType": "cvxAntigen"
+    }
+]

@@ -1,0 +1,24 @@
+    
+The files in this directory are fake patient files in JSON format
+suitable for a NoSQL database. Patient.json has fake patient
+information while medical.json is the corresponding immunization 
+history.
+
+./patient
+    medical.json
+    patient.json
+
+
+These are the support files provided by the Centers for Disease Control, 
+in Atlanta, GA, USA. They contain the vaccine information required
+to implement the Logic Spec.
+
+./cdsi
+    antigen-series.json
+    contraindications.json
+    cvx-to-antigen-map.json
+    live-virus-conflicts.json
+    test-cases.json
+    vaccine-group-to-antigen-map.json
+    vaccine-group.json
+    
