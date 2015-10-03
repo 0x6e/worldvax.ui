@@ -19,5 +19,5 @@ Otherwise running the following command in the project root will install the rem
 npm install
 ```
 
-Run`npm start` to launch a webserver and point your browser at [http://localhost:8000/www/index.html] to view the web app.
+Run`npm start` to launch a webserver and point your browser at <http://localhost:8000/www/index.html> to view the web app.
 
