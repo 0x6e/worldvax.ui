@@ -11,13 +11,13 @@ Download and install a [Git](http://git-scm.com/) client. Following installation
 
 ## Install
 You may wish to install some of the dependencies globally:
-'''
+```
 sudo npm install -g bower cordova
-'''
+```
 Otherwise running the following command in the project root will install the remaining dependencies:
-'''
+```
 npm install
-'''
+```
 
-Run`npm start` to launch a webserver and point your browser at `http://localhost:8000/www/index.html` to view the web app.
+Run`npm start` to launch a webserver and point your browser at [http://localhost:8000/www/index.html] to view the web app.
 
