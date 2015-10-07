@@ -29,7 +29,7 @@ _ReSharper*/
 [Tt]est[Rr]esult*
 ~*
 # Cordova
-platforms/android/
-platforms/browser/
-platforms/ios/
-www/components/
+.cordova/
+platforms/
+plugins/
+
